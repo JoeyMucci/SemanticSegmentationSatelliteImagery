@@ -1,1 +1,1 @@
-# SemanticSegmentationSatelliteImagery
+# Installation Instructions
