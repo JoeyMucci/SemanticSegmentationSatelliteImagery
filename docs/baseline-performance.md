@@ -11,3 +11,10 @@
   
   
   The baseline performance of the model is quite accurate, yet there is still room for improvement. By performing hyperparameter optimization, I plan to further improve the performance of my model for milestone 3. 
+# Figures
+![1to3](https://user-images.githubusercontent.com/31972810/200142305-1618c304-4ac9-4cca-b8cd-34c111b05f38.png)
+![4to6](https://user-images.githubusercontent.com/31972810/200142307-ff63e5b0-9817-4e93-a271-09bded3680f2.png)
+![7to9](https://user-images.githubusercontent.com/31972810/200142370-6dae24b0-e644-424a-a63d-19b6c2ca6766.png)
+![10 and graphs](https://user-images.githubusercontent.com/31972810/200142372-279f5f3a-61ca-4220-9e03-448005b75362.png)
+
+
